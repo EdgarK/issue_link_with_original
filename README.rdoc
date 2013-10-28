@@ -1,3 +1,10 @@
-= issue_link_with_original
+=== Issue link with original
 
-Description goes here
+=Installation
+
+Just clone this repository into plugins directory of your redmine installation. And Enjoy
+
+
+=Description
+
+After you installed this plugin. When you clicked copy link on an issue you would have checkbox saying 'Link with original'. So you already understood what it does....
